@@ -1,0 +1,16 @@
+.Listitem-Btn.Mui-selected {
+    color: red;
+    background-color: green;
+}
+
+.Listitem-Btn:hover {
+    /* background-color: red; */
+    border-left: 2px solid #695eee;
+}
+
+.Listitem-Btn:hover .listitem_icon {
+    color: #695eee;
+}
+.styledBadge.MuiBadge-dot.MuiBadge-colorPrimary {
+    color: black !important;
+}
